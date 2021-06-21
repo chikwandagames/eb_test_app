@@ -1,0 +1,21 @@
+{
+  "name": "eb_test_app",
+  "version": "1.0.0",
+  "description": "Test app",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chikwandagames/eb_test_app.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chikwandagames/eb_test_app/issues"
+  },
+  "homepage": "https://github.com/chikwandagames/eb_test_app#readme"
+}
